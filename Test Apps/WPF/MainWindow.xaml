@@ -13,33 +13,33 @@
 		<StackPanel Orientation="Horizontal">
 			<StackPanel Orientation="Vertical"><Label>    </Label></StackPanel>  
 			<StackPanel Orientation="Vertical">    
-				<Label>Segoe UI 8pt:</Label><TextBlock FontSize="8" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 9pt:</Label><TextBlock FontSize="9" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 10pt:</Label><TextBlock FontSize="10" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 11pt:</Label><TextBlock FontSize="11" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 12pt:</Label><TextBlock FontSize="12" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 13pt:</Label><TextBlock FontSize="13" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 14pt:</Label><TextBlock FontSize="14" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 15pt:</Label><TextBlock FontSize="15" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 16pt:</Label><TextBlock FontSize="16" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 17pt:</Label><TextBlock FontSize="17" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 18pt:</Label><TextBlock FontSize="18" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Segoe UI 19pt:</Label><TextBlock FontSize="19" FontFamily="Segoe UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 8pt:</Label><TextBlock FontSize="8" FontFamily="Segoe UI" FontStyle="Italic" >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 9pt:</Label><TextBlock FontSize="9" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 10pt:</Label><TextBlock FontSize="10" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 11pt:</Label><TextBlock FontSize="11" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 12pt:</Label><TextBlock FontSize="12" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 13pt:</Label><TextBlock FontSize="13" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 14pt:</Label><TextBlock FontSize="14" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 15pt:</Label><TextBlock FontSize="15" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 16pt:</Label><TextBlock FontSize="16" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 17pt:</Label><TextBlock FontSize="17" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 18pt:</Label><TextBlock FontSize="18" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Segoe UI 19pt:</Label><TextBlock FontSize="19" FontFamily="Segoe UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
 			</StackPanel>  
 			<StackPanel Orientation="Vertical"><Label>    </Label></StackPanel>  
 			<StackPanel Orientation="Vertical">    
-				<Label>Poppins UI 8pt:</Label><TextBlock FontSize="8" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 9pt:</Label><TextBlock FontSize="9" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 10pt:</Label><TextBlock FontSize="10" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 11pt:</Label><TextBlock FontSize="11" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 12pt:</Label><TextBlock FontSize="12" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 13pt:</Label><TextBlock FontSize="13" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 14pt:</Label><TextBlock FontSize="14" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 15pt:</Label><TextBlock FontSize="15" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 16pt:</Label><TextBlock FontSize="16" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 17pt:</Label><TextBlock FontSize="17" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 18pt:</Label><TextBlock FontSize="18" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
-				<Label>Poppins UI 19pt:</Label><TextBlock FontSize="19" FontFamily="Poppins UI"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 8pt:</Label><TextBlock FontSize="8" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 9pt:</Label><TextBlock FontSize="9" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 10pt:</Label><TextBlock FontSize="10" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 11pt:</Label><TextBlock FontSize="11" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 12pt:</Label><TextBlock FontSize="12" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 13pt:</Label><TextBlock FontSize="13" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 14pt:</Label><TextBlock FontSize="14" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 15pt:</Label><TextBlock FontSize="15" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 16pt:</Label><TextBlock FontSize="16" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 17pt:</Label><TextBlock FontSize="17" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 18pt:</Label><TextBlock FontSize="18" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
+				<Label>Poppins UI 19pt:</Label><TextBlock FontSize="19" FontFamily="Poppins UI" FontStyle="Italic"  >The quick brown fox<LineBreak/>jumps over the lazy dog</TextBlock>
 			</StackPanel>  
 			<StackPanel Orientation="Vertical"><Label>    </Label></StackPanel>  
 			<StackPanel Orientation="Vertical">    
