@@ -6,6 +6,11 @@ When compared with Segoe UI (which is default LabVIEW Font for GUI), the origina
 ![image-20230214064110052](assets/image-20230214064110052.png)
 
 The primary goal of the modification is to "synchronize" sizes and appearance of both fonts.
+
+### Poppins UI Modification:
+
+![](assets/Screenshot 2023-05-31 06.53.56.png)
+
 ## Poppins Original
 
 During the 1920s, Central European type foundries joined the modernists movements in art and design. Modernism was truly international in scope; only three years after the founding of the German Bauhaus school, several of its painting instructors were already exhibiting their work in Calcutta.

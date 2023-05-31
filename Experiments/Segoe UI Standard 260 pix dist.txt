@@ -1,0 +1,12 @@
+Segoe UI Standard 260 pix dist
+Segoe UI Bold 162 pix dist
+Segoe UI Bold Italic 160 pix
+Segoe UI Italic 256 pix
+
+Poppins UI
+regular height 1122 + 260 = 1382
+bold height 1143 + 162 = 1305
+Bold Italic 1143 + 160 = 1303
+Italic 1122 + 256 = 1378 / 294 + 15 to X
+
+
