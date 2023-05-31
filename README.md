@@ -9,7 +9,7 @@ The primary goal of the modification is to "synchronize" sizes and appearance of
 
 ### Poppins UI Modification:
 
-![](assets/Screenshot 2023-05-31 06.53.56.png)
+![Modification](assets/Modificationi.png)
 
 ## Poppins Original
 
